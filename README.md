@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm x5113nc3x</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navichok26&label=Profile%20views&color=0e75b6&style=flat" alt="navichok26" /> </p>
+# Обо мне
 
-## Обо мне
-- Безопасник
-- Реверс инженер мобилок и бинарей
-- Активный участник CTF соревнований
-- Бывший капитан команды [SiBears](https://ctftime.org/team/557)
+- Студент направления Компьютерной Безопасности
+- Люблю играть в CTF
+- Ревершу мобилки и бинари
+- Играю на электрогитаре
 
-### Контакты
-<p align="left">
-<a href="https://t.me/navichok26" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="https://t.me/navichok26" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![IDA Pro](https://img.shields.io/badge/IDA_Pro-%252300599C.svg?style=for-the-badge&logo=hexo&logoColor=white&color=%230E83CD)
+
+---
+[![](https://visitcount.itsvg.in/api?id=navichok26&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
